@@ -66,17 +66,6 @@ A **Aurora** foi selecionada como a diretriz recomendada para a CitizenTech por 
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```text
-├── notebooks/
-│   └── analise_estatistica_capsulas.ipynb   # Código completo com todos os testes de hipóteses
-├── relatorio/
-│   └── DataScience.pdf                      # Relatório executivo final (1 página A4)
-└── README.md                                # Documentação do projeto
-```
-
----
 
 ## 🚀 Como Executar o Notebook
 
